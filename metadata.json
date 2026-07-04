@@ -1,0 +1,6 @@
+{
+  "name": "Cek LaptopMu",
+  "description": "Cari, bandingkan, dan urutkan laptop impianmu dengan mudah dan cepat!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
